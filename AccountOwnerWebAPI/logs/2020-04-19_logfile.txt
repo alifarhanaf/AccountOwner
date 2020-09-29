@@ -1,0 +1,7 @@
+2020-04-19 04:02:20.6860 INFO Returned 2 owners from database
+2020-04-19 04:02:25.7653 INFO Returned 1 owners from database
+2020-04-19 04:02:29.1595 INFO Returned 1 owners from database
+2020-04-19 04:02:34.3738 INFO Returned 3 owners from database
+2020-04-19 04:03:26.9898 INFO Returned 3 owners from database
+2020-04-19 04:03:32.3461 INFO Returned 3 owners from database
+2020-04-19 04:03:35.7883 INFO Returned 4 owners from database
